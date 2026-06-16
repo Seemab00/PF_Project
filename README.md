@@ -35,7 +35,6 @@ java ccakeordermanagementsystem.CcakeOrderManagementSystem
 
 ## 📁 Project Structure
 
-```
 CakeManagementSystem/
 ├── CcakeOrderManagementSystem.java  # Main class
 ├── Menu.java                        # Controller
@@ -49,7 +48,6 @@ CakeManagementSystem/
 ├── Address.java                     # Address entity
 ├── Person.java                      # Abstract class
 └── User.java                        # Interface
-```
 
 ---
 
