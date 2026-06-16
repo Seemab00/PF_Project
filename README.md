@@ -33,24 +33,6 @@ java ccakeordermanagementsystem.CcakeOrderManagementSystem
 
 ---
 
-## 📁 Project Structure
-
-CakeManagementSystem/
-├── CcakeOrderManagementSystem.java  # Main class
-├── Menu.java                        # Controller
-├── Admin.java                       # Admin entity
-├── Customer.java                    # Customer entity
-├── Order.java                       # Order entity
-├── Cake.java                        # Base class
-├── ChocolateCake.java               # Subclass
-├── VanillaCake.java                 # Subclass
-├── StrawberryCake.java              # Subclass
-├── Address.java                     # Address entity
-├── Person.java                      # Abstract class
-└── User.java                        # Interface
-
----
-
 ## 👤 Developer
 
 **Simaab Malik** (SAP ID: 54910)  
